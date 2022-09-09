@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2682780893
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets/assetbundles/prefabs/maps/stage1-1.prefab
+      Dependencies:
+        Dependency_0: assets/assetbundles/prefabs/enemies/enemy01.prefab
+    Info_1:
+      Name: assets/assetbundles/prefabs/maps/stage1-2.prefab
+      Dependencies:
+        Dependency_0: assets/assetbundles/prefabs/enemies/enemy01.prefab
+    Info_2:
+      Name: assets/assetbundles/prefabs/enemies/enemy01.prefab
+      Dependencies: {}
