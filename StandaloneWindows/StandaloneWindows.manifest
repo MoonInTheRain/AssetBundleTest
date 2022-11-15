@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2682780893
+CRC: 311119167
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -12,4 +12,8 @@ AssetBundleManifest:
         Dependency_0: assets/assetbundles/prefabs/enemies/enemy01.prefab
     Info_2:
       Name: assets/assetbundles/prefabs/enemies/enemy01.prefab
+      Dependencies:
+        Dependency_0: assets/assetbundles/materials/enemy_safe.mat
+    Info_3:
+      Name: assets/assetbundles/materials/enemy_safe.mat
       Dependencies: {}

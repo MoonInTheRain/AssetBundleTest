@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3322480902
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b9aa92767b1d843e609b2589a481353
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/Materials/Enemy_Safe.mat
+Dependencies: []

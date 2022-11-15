@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3277710437
+CRC: 3524327392
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8c80b6f75a61d872f3ed0face5e39713
+    Hash: 7a0991ba6d3288e5e84ac29595e148bf
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4303acd72bb7258074494dc4f7dcfccf
+    Hash: 00bd488dea8e047a3684855a5eadabee
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,8 +20,6 @@ ClassTypes:
 - Class: 33
   Script: {instanceID: 0}
 - Class: 43
-  Script: {instanceID: 0}
-- Class: 48
   Script: {instanceID: 0}
 - Class: 54
   Script: {instanceID: 0}
@@ -38,4 +36,5 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/AssetBundles/Prefabs/Enemies/Enemy01.prefab
-Dependencies: []
+Dependencies:
+- E:/Document/UnityProjects/YorigamiEscape/AssetBundles/StandaloneWindows/assets/assetbundles/materials/enemy_safe.mat
